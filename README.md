@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email -> gulamansari57181@gmail.com
 - 😄 Pronouns: He/His
 
-![](https://raw.githubusercontent.com/gulamansari57181/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/gulamansari57181/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulamansari57181&show_icons=true&theme=radical)
 
 - Github Streak :
 
