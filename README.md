@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gulamansari57181&theme=dark)
 ![Gulam Ansari Github stats](https://github-readme-stats.vercel.app/api?username=gulamansari57181&show_icons=true&theme=merko)
-![](https://leetcard.jacoblin.cool/gulam_57181?theme=unicorn)
+![](https://leetcard.jacoblin.cool/gulam_57181?border=0&radius=20)
 
 
 
