@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+Some facts about me:
 
 - 🔭 I’m currently working on TCS
 - 🌱 I’m currently learning React and Node.js
