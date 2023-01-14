@@ -15,7 +15,7 @@ Some facts about me:
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gulamansari57181&theme=dark)
-![Gulam Ansari Github stats](https://github-readme-stats.vercel.app/api?username=gulamansari57181&show_icons=true)
+
 ![](https://leetcard.jacoblin.cool/gulam_57181?border=0&radius=20)
 
 
