@@ -4,7 +4,7 @@
 
 Some facts about me:
 
-- 🔭 I’m currently working in TCS
+- 🔭 I’m currently pursuing M Tech. CSE (NIT Surathkal, Karnataka)
 - 🌱 I’m currently learning Python and Django
 - 👯 I’m looking to collaborate on Linkedin.
 - 💬 Ask me about life, web development, frontend design , study tips..
